@@ -20,16 +20,4 @@
 .//test//orig.txt 与.//test//orig_0.8_dis_15.txt 两篇文章相似率为：82.81 
 .//test//orig.txt 与.//test//orig_0.8_add.txt 两篇文章相似率为：95.31 
 .//test//orig.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
-.//test//empty.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
 .//test//orig.txt 与.//test//orig_0.8_del.txt 两篇文章相似率为：85.94 
-.//test//empty.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
-.//test//empty.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
-.//test//empty.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
-.//test//empty.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
-.//test//empty.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
-.//test//orig.txt 与.//test//orig_0.8_add.txt 两篇文章相似率为：95.31 
-.//test//orig.txt 与.//test//orig_0.8_add.txt 两篇文章相似率为：95.31 
-.//test//orig.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
-.//test//orig.txt 与.//test//orig.txt 两篇文章相似率为：100.00 
-.//test//orig.txt 与.//test//orig_0.8_add.txt 两篇文章相似率为：95.31 
-.//test//orig.txt 与.//test//orig_0.8_add.txt 两篇文章相似率为：95.31 
