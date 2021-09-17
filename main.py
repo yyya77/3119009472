@@ -87,7 +87,7 @@ def main():
         race = similarity(dis)  # 求相似率
         print("相似率为：%.2f%%" % race)
         result = open('.//test//result.txt', 'a+', encoding='utf-8')
-        result.write("%s 与%s 两篇文章相似率为：%.2f \n" % (a, b, race))
+        result.write("%s 与%s 两篇文章相似率为：%.2f%% \n" % (a, b, race))
         print("结果已保存到result.txt")
         '''
         关闭文件
